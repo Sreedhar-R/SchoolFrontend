@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/school-app/static/css/main.d6a84d29.chunk.css",
-    "main.js": "/school-app/static/js/main.23e908bf.chunk.js",
-    "main.js.map": "/school-app/static/js/main.23e908bf.chunk.js.map",
-    "runtime-main.js": "/school-app/static/js/runtime-main.8b158e41.js",
-    "runtime-main.js.map": "/school-app/static/js/runtime-main.8b158e41.js.map",
-    "static/js/2.3635007e.chunk.js": "/school-app/static/js/2.3635007e.chunk.js",
-    "static/js/2.3635007e.chunk.js.map": "/school-app/static/js/2.3635007e.chunk.js.map",
-    "static/js/3.f9f266a7.chunk.js": "/school-app/static/js/3.f9f266a7.chunk.js",
-    "static/js/3.f9f266a7.chunk.js.map": "/school-app/static/js/3.f9f266a7.chunk.js.map",
-    "index.html": "/school-app/index.html",
-    "static/css/main.d6a84d29.chunk.css.map": "/school-app/static/css/main.d6a84d29.chunk.css.map",
-    "static/js/2.3635007e.chunk.js.LICENSE.txt": "/school-app/static/js/2.3635007e.chunk.js.LICENSE.txt"
+    "main.css": "/SchoolFrontend/static/css/main.d6a84d29.chunk.css",
+    "main.js": "/SchoolFrontend/static/js/main.23e908bf.chunk.js",
+    "main.js.map": "/SchoolFrontend/static/js/main.23e908bf.chunk.js.map",
+    "runtime-main.js": "/SchoolFrontend/static/js/runtime-main.3631d7d8.js",
+    "runtime-main.js.map": "/SchoolFrontend/static/js/runtime-main.3631d7d8.js.map",
+    "static/js/2.3635007e.chunk.js": "/SchoolFrontend/static/js/2.3635007e.chunk.js",
+    "static/js/2.3635007e.chunk.js.map": "/SchoolFrontend/static/js/2.3635007e.chunk.js.map",
+    "static/js/3.f9f266a7.chunk.js": "/SchoolFrontend/static/js/3.f9f266a7.chunk.js",
+    "static/js/3.f9f266a7.chunk.js.map": "/SchoolFrontend/static/js/3.f9f266a7.chunk.js.map",
+    "index.html": "/SchoolFrontend/index.html",
+    "static/css/main.d6a84d29.chunk.css.map": "/SchoolFrontend/static/css/main.d6a84d29.chunk.css.map",
+    "static/js/2.3635007e.chunk.js.LICENSE.txt": "/SchoolFrontend/static/js/2.3635007e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b158e41.js",
+    "static/js/runtime-main.3631d7d8.js",
     "static/js/2.3635007e.chunk.js",
     "static/css/main.d6a84d29.chunk.css",
     "static/js/main.23e908bf.chunk.js"
