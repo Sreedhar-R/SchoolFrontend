@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SchoolFrontend/static/css/main.d6a84d29.chunk.css",
-    "main.js": "/SchoolFrontend/static/js/main.23e908bf.chunk.js",
-    "main.js.map": "/SchoolFrontend/static/js/main.23e908bf.chunk.js.map",
+    "main.js": "/SchoolFrontend/static/js/main.3a380e9e.chunk.js",
+    "main.js.map": "/SchoolFrontend/static/js/main.3a380e9e.chunk.js.map",
     "runtime-main.js": "/SchoolFrontend/static/js/runtime-main.3631d7d8.js",
     "runtime-main.js.map": "/SchoolFrontend/static/js/runtime-main.3631d7d8.js.map",
     "static/js/2.3635007e.chunk.js": "/SchoolFrontend/static/js/2.3635007e.chunk.js",
@@ -11,12 +11,14 @@
     "static/js/3.f9f266a7.chunk.js.map": "/SchoolFrontend/static/js/3.f9f266a7.chunk.js.map",
     "index.html": "/SchoolFrontend/index.html",
     "static/css/main.d6a84d29.chunk.css.map": "/SchoolFrontend/static/css/main.d6a84d29.chunk.css.map",
-    "static/js/2.3635007e.chunk.js.LICENSE.txt": "/SchoolFrontend/static/js/2.3635007e.chunk.js.LICENSE.txt"
+    "static/js/2.3635007e.chunk.js.LICENSE.txt": "/SchoolFrontend/static/js/2.3635007e.chunk.js.LICENSE.txt",
+    "static/media/college_02.cfdc9984.jpg": "/SchoolFrontend/static/media/college_02.cfdc9984.jpg",
+    "static/media/promoted.dd60740f.PNG": "/SchoolFrontend/static/media/promoted.dd60740f.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.3631d7d8.js",
     "static/js/2.3635007e.chunk.js",
     "static/css/main.d6a84d29.chunk.css",
-    "static/js/main.23e908bf.chunk.js"
+    "static/js/main.3a380e9e.chunk.js"
   ]
 }
