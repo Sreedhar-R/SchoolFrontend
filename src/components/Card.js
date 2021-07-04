@@ -1,9 +1,9 @@
 import React from 'react';
-import {images} from './image';
-import {ribbon} from './image';
+import img1 from '../images/college_02.jpg';
+import ribbon from '../images/promoted.PNG';
 import '../style/App.css';
 
-let image = images[Math.floor(Math.random() * images.length)];
+// let image = images[Math.floor(Math.random() * images.length)];
 const Card = ({college}) => {
 
     let rupeeIndian = Intl.NumberFormat("en-IN", {
@@ -14,14 +14,14 @@ const Card = ({college}) => {
     let discountedPrice = rupeeIndian.format(college.discounted_fees).slice(0,6);
     let originalPrice = rupeeIndian.format(college.original_fees).slice(0,6);
 
-    
+    let ratingPercentage = (college.rating*100)/5 + '%' ;
 
    
     return (
         <div className="container col-12 col-sm-12 col-md-6 card mt-3 ">
 
             <div className="card bg-dark text-white">
-                <img src={image} className="card-img" alt="college-img"/>
+                <img src={img1} className="card-img" alt="college-img"/>
                 <div className="card-img-overlay">
                     {college.promoted?<img src={ribbon} className='promoted' alt='promoted-ribbon'/>:'' }
                     <div className="container rating">
@@ -47,7 +47,7 @@ const Card = ({college}) => {
                         <span className="college-name">{college.college_name}</span>
                         <span className="rating-wrap mb-2">
                             <ul className="rating-stars">
-                                    <li style={{width:"80%"}} className="stars-active"> 
+                                    <li style={{width:ratingPercentage}} className="stars-active"> 
                                         <i className="fa fa-star"></i><i className="fa fa-star"></i><i className="fa fa-star"></i><i className="fa fa-star"></i><i className="fa fa-star"></i> 
                                     </li>
                                     <li>
